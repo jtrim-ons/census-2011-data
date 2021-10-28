@@ -8,3 +8,7 @@ values.  (I think the lookup file is best fit?)
 
 `remove-columns.sh` creates one- and two-column versions of the files created
 by `add-extra-rows.sh`.
+
+`add-colour-column.sh` creates a four-column version with a colour index from 0
+to 4 in the final column.  It also has some extra rows giving the breaks
+between colours.
