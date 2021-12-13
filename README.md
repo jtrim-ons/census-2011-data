@@ -12,3 +12,7 @@ by `add-extra-rows.sh`.
 `add-colour-column.sh` creates a four-column version with a colour index from 0
 to 4 in the final column.  It also has some extra rows giving the breaks
 between colours.
+
+## Known issues
+
+The script to add colour columns does not look at all LSOAs
